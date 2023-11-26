@@ -2,7 +2,6 @@
 /Lib
 /Scripts
 /pyvenv.cfg
-/__pycache__
-/.idea
-
-
+__pycache__
+.idea/
+.env
